@@ -1,0 +1,22 @@
+//INPUT
+import java.util.*;
+public class array{
+  public static void main(String[] args){
+    int a[]={10,20,30,40,50};
+   for(int b:a){
+     System.out.println(+b);
+     System.out.println(b+" ");
+   }
+  }
+}
+//OUTPUT
+10
+10 
+20
+20 
+30
+30 
+40
+40 
+50
+50 
